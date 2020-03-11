@@ -6,3 +6,7 @@ Edsger Wybe Dijkstra
 Netherlands – 1972
 # demo1920corsoa
 Repository dell'a.a. 2019-2020 del corso A
+At the Mathematical Centre a major project was building the ARMAC computer. For its official inauguration in 1956, Dijkstra devised a program to solve a problem interesting to a nontechnical audience: Given a network of roads connecting cities, what is the shortest route between two designated cities? The best known algorithms had running times which grew as the cube of the network’s size; the running time of Dijkstra’s algorithm grew only as the square. Developed in 20 minutes while Dijkstra was relaxing on a café terrace with his fiancée, Maria (Ria) C. Debets, his Shortest Path algorithm is still used in such applications as packet-switching software for computer communications
+
+
+
